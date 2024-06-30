@@ -1,7 +1,0 @@
-opencv-python
-numpy
-matplotlib
-gradio
-yolov3.weights (file)
-yolov3.cfg (file)
-coco.names (files)
